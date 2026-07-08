@@ -7,7 +7,7 @@ collaborate in the same workspace.
 ## Core requirements
 
 - Upload PDFs, PowerPoints, and Excel files to a workspace
-- Extract content from uploads to enable basic search over documents
+- Extract content from uploads to enable search over documents
 - Chat interface where users ask questions against one or more documents
 - Ability to trigger an agent run that produces a report from workspace
   documents
