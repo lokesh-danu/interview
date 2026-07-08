@@ -1,4 +1,4 @@
-# Collaborative AI Workspace
+# Collaborative Workspace
 
 Build a workspace where users upload documents (PDF, PPTX, XLSX), chat with
 them, run agents against them, and produce reports. Multiple users can
