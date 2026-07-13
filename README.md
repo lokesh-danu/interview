@@ -14,16 +14,6 @@ collaborate in the same workspace.
 - Multiple users can be members of a workspace and see each other's
   uploads/chats
 
-## What we're evaluating
-
-Use whatever coding agent you'd like (Claude Code, Cursor, etc.) — we care
-about the judgment behind what you build, not whether you typed every line
-by hand. Be ready to explain what you built, where you trusted the agent,
-and where you overrode it. There's no single correct architecture; make
-reasonable tradeoffs and be ready to defend them, including how the design
-would change under load (100k users, 5GB files, concurrent uploads, live
-collaboration, one workspace with a million documents).
-
 ## Structure
 
 ```
